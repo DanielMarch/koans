@@ -1,0 +1,1 @@
+So far, I have the subject that I have gained the most knowledge by covering has been the koan covering REGEX. I didn't have a great understanding of REGEX through the JavaScript portion and feel that I understand it better now due to the discussion earlier and now the Rubular tool. 
